@@ -1,0 +1,30 @@
+/home/ecegridfs/a/ee364ta/grading/Prelab03/ee364c21
+
+----------------------------------------------------------------------------------
+FUNCTION          | DESCRIPTION             | COMMENTS                 | POINTS  
+----------------------------------------------------------------------------------
+convertToBoolean    Below-bound Input Test    Passed                     4/4     
+convertToBoolean    Non-Integer Input Test    Error running function     0/2     
+convertToBoolean    Normal Input Test         Passed                     4/4     
+convertToInteger    Empty List Test           FAILED                     0/2     
+convertToInteger    Invalid List Test         FAILED                     0/2     
+convertToInteger    Non-List Test             FAILED                     0/2     
+convertToInteger    Normal Input Test         Passed                     4/4     
+find                Pattern (314X9X)          FAILED                     0/10    
+find                Pattern (X5969XX)         FAILED                     0/10    
+findNames           Find Both                 Passed                     4/4     
+findNames           Find First                Passed                     2/2     
+findNames           Find Last                 Passed                     2/2     
+findNames           Wrong Part                Passed                     2/2     
+getStreakProduct    Value (31415)             Passed                     5/5     
+getStreakProduct    Value (43200)             FAILED                     0/5     
+getStreakProduct    Value (44100)             FAILED                     0/5     
+getStreakProduct    Value (98304)             FAILED                     0/5     
+getStreaks          Test 1                    Passed                     4/4     
+getStreaks          Test 2                    Passed                     3/3     
+getStreaks          Test 3                    Passed                     3/3     
+writePyramids       Pyramid (21, 7, '#')      FAILED                     0/10    
+writePyramids       Pyramid (25, 11, 'O')     FAILED                     0/10    
+----------------------------------------------------------------------------------
+
+Total Score = 37.0
